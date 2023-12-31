@@ -17,7 +17,7 @@ theme = "m10c"
 
 [params]
   author = "Timothy Johnson"
-  description = "test"
+  description = "A mininumal scentific emacs config and guide."
   menu_item_separator = " - "
 
  [[params.social]]
