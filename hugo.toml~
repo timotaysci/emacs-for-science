@@ -1,0 +1,11 @@
+baseURL = 'https://emacsforscience.com/'
+languageCode = 'en-uk'
+title = 'Emacs for Science'
+theme = "m10c"
+
+
+
+[params]
+  author = "Timothy Johnson"
+  description = "test"
+  menu_item_separator = " - "

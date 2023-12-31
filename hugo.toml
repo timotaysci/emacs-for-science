@@ -1,0 +1,26 @@
+baseURL = 'https://emacsforscience.com/'
+languageCode = 'en-uk'
+title = 'Emacs for Science'
+theme = "m10c"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[params]
+  author = "Timothy Johnson"
+  description = "test"
+  menu_item_separator = " - "
+
+ [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/gohugoio"
